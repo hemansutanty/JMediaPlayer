@@ -4,11 +4,11 @@ A mini media player which plays a default video from begining. Contains pause,pl
 
 ####Prerequisites:
 
---JDK 1.7 and above. More preferable to have JDK 1.8 as this media player was created with JDK 1.8.\s
+--JDK 1.7 and above. More preferable to have JDK 1.8 as this media player was created with JDK 1.8.\s\s
 --If you are running in a Development Environment then you need to Install Java fx library. For Eclipse users install the two plugins from [here](https://www.eclipse.org/efxclipse/install.html)
 
 ####Steps:
---Place a media file in Home folder(Unix environment) and rename it to trailer.mp4 else go to Main.java and change the location of media to point to a local media of your choice.\s
+--Place a media file in Home folder(Unix environment) and rename it to trailer.mp4 else go to Main.java and change the location of media to point to a local media of your choice.\s\s
 --Run Main.java to see the media player in Action
 
 ###The MIT License (MIT)
